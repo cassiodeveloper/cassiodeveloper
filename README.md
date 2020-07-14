@@ -8,5 +8,5 @@
 
 Hoje atuo como Application Security Engineer ajudando desenvolvedores a construirem softwares mais seguros. Fui desenvolvedor por 17 anos (ainda programo), gosto muito de C#, Python e JavaScript, e já construi diversas aplicações para os mais variados nichos de negócio.
 
-## Me encontre por ai 🌎:
+## Me encontre por ai 🌎
 - Links <a href="https://linktr.ee/cassiodeveloper">Linktree</a>
